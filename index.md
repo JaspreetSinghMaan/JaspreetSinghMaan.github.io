@@ -8,7 +8,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
   <!-- Our site title and description -->
-  <title>Angel Xuan Chang | Angel Xuan Chang</title>
+  <title>Jaspreet Singh | Jaspreet Singh</title>
 
   <meta name="generator" content="DocPad v6.79.4" />
 
@@ -61,10 +61,9 @@
 <div class="row">
   <div class="col-sm-8 pull-left" style="min-height: 280px; display: flex; flex-direction: column;">
     <p>
-      I am an Assistant Professor at  <a href="https://www.sfu.ca/computing.html">Simon Fraser University</a>. 
-       Prior to this, I was a visiting research scientist at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research<a> and a research scientist at <a href="http://eloquent.ai">Eloquent Labs</a> working on dialogue.  I received my Ph.D. in <a href="http://cs.stanford.edu/">Computer Science</a> from <a href="http://www.stanford.edu/">Stanford</a>, where I was part of the <a href="http://nlp.stanford.edu/">Natural Language Processing Group</a> and advised by <a href="http://nlp.stanford.edu/~manning/">Chris Manning</a>.
-       My research focuses on connecting language to 3D representations of shapes and scenes and grounding of language for embodied agents in indoor environments.  I have worked on methods for synthesizing 3D <a href="http://nlp.stanford.edu/projects/text2scene.shtml">scenes</a> and <a href="http://text2shape.stanford.edu/">shapes</a> from natural language, and various datasets for 3D scene understanding. In general, I am interested in the semantics of shapes and scenes, the representation and acquisition of common sense knowledge, and reasoning using probabilistic models.
-      Some of my other <a href="http://www.coiraweb.com/poignance/angel">interests</a> include <a href="http://www.coiraweb.com/poignance/angel/art/reflections.html">drawing</a> and <a href="http://www.coiraweb.com/poignance/angel/dance/dance.html">dance</a>.
+      I am a Project Officer at  <a href="https://www.learnpunjabi.org/">https://www.learnpunjabi.org/</a>. 
+       Prior to this, I was a PhD reserach scholar at at <a href="http://punjabiuniversity.ac.in/Pages/Department.aspx?dsenc=19">Department of Computer Science, Punjabi University, Patiala<a>.  I submitted my Ph.D. in <a href="http://punjabiuniversity.ac.in/Pages/Department.aspx?dsenc=19"</a> from <a a href="http://punjabiuniversity.ac.in">Punjabi University</a>, advised by <a http://www.punjabiuniversity.ac.in/Departments/Profiles/19/Profile_P19X0C812.pdf">Chandan Singh</a>.
+       My research focuses on studying the experssibilty of orthgonal moments/transforms and deep neural networks and designing the equivariant/invariant operators for different affine geometric transformations such as rotation, scale, translation and reflection 
     </p>
     <p>
       
